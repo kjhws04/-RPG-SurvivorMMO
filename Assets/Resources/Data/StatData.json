@@ -1,0 +1,224 @@
+{
+  "stats": [
+    {
+      "level": "1",
+      "maxHp": "200",
+      "maxMp": "200",
+      "attack": "50",
+      "mAttack": "50",
+      "defence": "5",
+      "mDefence": "5",
+      "totalExp": "0",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "2",
+      "maxHp": "210",
+      "maxMp": "210",
+      "attack": "55",
+      "mAttack": "55",
+      "defence": "6",
+      "mDefence": "6",
+      "totalExp": "20",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "3",
+      "maxHp": "220",
+      "maxMp": "220",
+      "attack": "60",
+      "mAttack": "60",
+      "defence": "7",
+      "mDefence": "7",
+      "totalExp": "50",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "4",
+      "maxHp": "230",
+      "maxMp": "230",
+      "attack": "75",
+      "mAttack": "75",
+      "defence": "8",
+      "mDefence": "8",
+      "totalExp": "90",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "5",
+      "maxHp": "240",
+      "maxMp": "240",
+      "attack": "80",
+      "mAttack": "80",
+      "defence": "9",
+      "mDefence": "9",
+      "totalExp": "140",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "6",
+      "maxHp": "250",
+      "maxMp": "250",
+      "attack": "85",
+      "mAttack": "85",
+      "defence": "10",
+      "mDefence": "10",
+      "totalExp": "200",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "7",
+      "maxHp": "260",
+      "maxMp": "260",
+      "attack": "90",
+      "mAttack": "90",
+      "defence": "11",
+      "mDefence": "11",
+      "totalExp": "270",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "8",
+      "maxHp": "270",
+      "maxMp": "270",
+      "attack": "95",
+      "mAttack": "95",
+      "defence": "12",
+      "mDefence": "12",
+      "totalExp": "350",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "9",
+      "maxHp": "280",
+      "maxMp": "280",
+      "attack": "100",
+      "mAttack": "100",
+      "defence": "13",
+      "mDefence": "13",
+      "totalExp": "440",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "10",
+      "maxHp": "290",
+      "maxMp": "290",
+      "attack": "105",
+      "mAttack": "105",
+      "defence": "14",
+      "mDefence": "14",
+      "totalExp": "540",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "11",
+      "maxHp": "300",
+      "maxMp": "300",
+      "attack": "110",
+      "mAttack": "110",
+      "defence": "15",
+      "mDefence": "15",
+      "totalExp": "650",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "12",
+      "maxHp": "310",
+      "maxMp": "310",
+      "attack": "115",
+      "mAttack": "115",
+      "defence": "16",
+      "mDefence": "16",
+      "totalExp": "770",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "13",
+      "maxHp": "320",
+      "maxMp": "320",
+      "attack": "120",
+      "mAttack": "120",
+      "defence": "17",
+      "mDefence": "17",
+      "totalExp": "900",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "14",
+      "maxHp": "330",
+      "maxMp": "330",
+      "attack": "125",
+      "mAttack": "125",
+      "defence": "18",
+      "mDefence": "18",
+      "totalExp": "1040",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "15",
+      "maxHp": "340",
+      "maxMp": "340",
+      "attack": "130",
+      "mAttack": "130",
+      "defence": "19",
+      "mDefence": "19",
+      "totalExp": "1190",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "16",
+      "maxHp": "350",
+      "maxMp": "350",
+      "attack": "135",
+      "mAttack": "135",
+      "defence": "20",
+      "mDefence": "20",
+      "totalExp": "1300",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "17",
+      "maxHp": "360",
+      "maxMp": "360",
+      "attack": "140",
+      "mAttack": "140",
+      "defence": "21",
+      "mDefence": "21",
+      "totalExp": "1470",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "18",
+      "maxHp": "370",
+      "maxMp": "370",
+      "attack": "145",
+      "mAttack": "145",
+      "defence": "22",
+      "mDefence": "22",
+      "totalExp": "1650",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "19",
+      "maxHp": "380",
+      "maxMp": "380",
+      "attack": "150",
+      "mAttack": "150",
+      "defence": "23",
+      "mDefence": "23",
+      "totalExp": "1840",
+      "moveSpeed": "5"
+    },
+    {
+      "level": "20",
+      "maxHp": "390",
+      "maxMp": "390",
+      "attack": "155",
+      "mAttack": "155",
+      "defence": "24",
+      "mDefence": "24",
+      "totalExp": "2040",
+      "moveSpeed": "5"
+    }
+  ]
+}

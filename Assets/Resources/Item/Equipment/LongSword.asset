@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1419510cf2bdc4d44add6439a8641038, type: 3}
+  m_Name: LongSword
+  m_EditorClassIdentifier: 
+  _itemType: 0
+  _itemName: LongSword
+  _itemImage: {fileID: 21300000, guid: a4575d8d00f2e1b41b2f618fdc71d63c, type: 3}
+  _itemPrefab: {fileID: 6681789124538681745, guid: 826143dae2a4f174891aa479549134f3,
+    type: 3}
+  _itemUIPrefab: {fileID: 3332825946871032020, guid: 5e5a962887fee824a820d5343d26910f,
+    type: 3}
+  _itemADAPSPType: 0
+  _potionType: 0
+  _potionCoolTime: 0
+  _itemEffect: 20
+  _itemRange: 1
+  _itemDesc: ' The most basic sword recommended for beginners.'
+  _itemPrice: 10
+  _weaponAnim: 1
+  _itemHand: 0

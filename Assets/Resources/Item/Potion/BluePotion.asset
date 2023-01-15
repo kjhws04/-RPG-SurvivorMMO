@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1419510cf2bdc4d44add6439a8641038, type: 3}
+  m_Name: BluePotion
+  m_EditorClassIdentifier: 
+  _itemType: 3
+  _itemName: BluePotion
+  _itemImage: {fileID: 21300000, guid: 6dbb45e0c6288fb479c912e12af2fc84, type: 3}
+  _itemPrefab: {fileID: 6887413865839752405, guid: 80eadc5f86cf8af4ca2c1d875134c866,
+    type: 3}
+  _itemUIPrefab: {fileID: 0}
+  _itemADAPSPType: 3
+  _potionType: 2
+  _potionCoolTime: 20
+  _itemEffect: 20
+  _itemRange: 0
+  _itemDesc: Blue liquid full of mana
+  _itemPrice: 10
+  _weaponAnim: 0
+  _itemHand: 0
